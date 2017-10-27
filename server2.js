@@ -3,7 +3,7 @@ var app = express();
 
 app.set('view engine', 'ejs');
 
-//Test git fichier 1
+//Test git fichier 2
 
 var clientList = [
   {firstName: "John", lastName : "Doe", email: "john@gmail.com", phone: "0612457845"},
